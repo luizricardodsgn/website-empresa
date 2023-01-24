@@ -220,26 +220,6 @@ header .container .socials li {
 }
 
 /*Layout responsivo */
-@media (max-width: 1440px) {
-    .aviso {
-        padding-top: 25rem;
-        padding-bottom: 14.3rem;
-        height: 95rem;
-    }
-}
-
-@media (max-width: 1200px) {
-    .aviso {
-        padding-top: 30rem;
-        padding-bottom: 14.3rem;
-        height: 100%;
-    }
-}
-
-@media (max-width: 991px) {
-    
-}
-
 @media (max-width: 560px) {
     .aviso {
         padding-top: 16rem;
